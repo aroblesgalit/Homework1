@@ -1,4 +1,7 @@
-# 01 HTML CSS Git: Code Refactor
+# 01 Marketing SEO Refactor
+> Refactor of a Marketing page to be more SEO friendly
+
+This was a homework assignment where we refactored the HTML/CSS of a marketing website.
 
 
 ## User Story
