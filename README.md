@@ -29,3 +29,6 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+
+## Screenshot
+![Screenshot of SEO website](https://github.com/aroblesgalit/Homework1/blob/master/screenshot.JPG?raw=true)
