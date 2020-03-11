@@ -2,6 +2,12 @@
 > Refactor of a Marketing page to be more SEO friendly
 
 This was a homework assignment where we refactored the HTML/CSS of a marketing website.
+<<<<<<< HEAD
+=======
+## Completed
+* Combined and updated some CSS Classes
+* Improved accessibility by adding alt tags and udpating html semantic elements
+>>>>>>> aca83ce6d4faec74891fe2ef722e9094edf379bf
 
 ## User Story
 
